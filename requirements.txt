@@ -1,0 +1,7 @@
+fastapi==0.115.6
+numpy==2.2.1
+opencv_contrib_python==4.11.0.86
+Pillow==11.1.0
+webcolors==24.11.1
+uvicorn==0.32.1
+python-multipart==0.0.20
